@@ -10,3 +10,5 @@ Dependencies are in pom.xml
 I will add an exe soon and add task creation from command line
 
 I don't recommend actually using this on a drop this is just so people can see how footsites work
+
+Also you must put the adyen.exe in C:\Users\yourusername\AppData\Roaming\eatshoeFootsites it is needed
