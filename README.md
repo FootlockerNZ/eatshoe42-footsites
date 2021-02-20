@@ -14,3 +14,5 @@ I don't recommend actually using this on a drop this is just so people can see h
 You must put the adyen.exe in C:\Users\yourusername\AppData\Roaming\eatshoeFootsites\ it is needed.
 
 You also need to have proxies in C:\Users\yourusername\AppData\Roaming\eatshoeFootsites\proxies.txt or else you will get an error.
+
+btw address line2 doesnt work
